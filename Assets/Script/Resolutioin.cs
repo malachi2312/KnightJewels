@@ -8,7 +8,7 @@ public class Resolutioin : MonoBehaviour {
     float windowAspect;
     float scaleHeight;
     float scaledWidth;
-    Camera camera;
+//    Camera camera;
     void Start()
     {
 

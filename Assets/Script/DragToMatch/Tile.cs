@@ -33,7 +33,7 @@ public class Tile : MonoBehaviour {
     public List<Tile> nearTiles;
 
     // Save color
-    Color color = Color.white;
+    //Color color = Color.white;
 
     // Tile Line Component
     public Line lineScript;

@@ -50,6 +50,7 @@
      <Compile Include="Assets\Script\DragToMatch\GameInit.cs" />
      <Compile Include="Assets\Script\DragToMatch\Grid.cs" />
      <Compile Include="Assets\Script\DragToMatch\Line.cs" />
+     <Compile Include="Assets\Script\DragToMatch\SmartFoxConnection.cs" />
      <Compile Include="Assets\Script\DragToMatch\Tile.cs" />
      <Compile Include="Assets\Script\GameGrid.cs" />
      <Compile Include="Assets\Script\GridItem.cs" />
@@ -68,7 +69,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="HOTween">
- <HintPath>E:/Unity_GD05_Linhnc/DragToMatch/KnightJewels/Assets/HOTween/Plugins/HOTween.dll</HintPath>
+ <HintPath>E:/Unity_GD05_Linhnc/DragToMatch/GitHub/KnightJewels/Assets/HOTween/Plugins/HOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="SmartFox2X">
+ <HintPath>E:/Unity_GD05_Linhnc/DragToMatch/GitHub/KnightJewels/Assets/Plugins/SmartFox2X.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
